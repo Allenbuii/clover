@@ -9,7 +9,7 @@ The list of team members:
 * Trinh Phuoc Thuan, thuantp2@fe.edu.vn, engineer.
 * Tran Minh Hoang, tranminhhoang211105@gmail.com, programmer.
 * Vo Duc Hieu, voduchieu42@gmail.com, programmer.
-* Bui Son, bhhson@gmail.com, programmer.
+* Bui Hoang Hai Son, bhhson@gmail.com, programmer.
 
 ## Project description
 
